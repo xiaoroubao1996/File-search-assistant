@@ -1,0 +1,300 @@
+Quel nombre article écrit X Y Z ?
+Combien auteurs ont écrit sujet X ?
+Combien articles ont publiés mois décembre ?
+Qui  écrit article 2011 ?
+Quel auteur publié rubriques différentes ?
+Qui écrit article sujet ?
+Quels articles ont mot X leur titre ont écrit 2011 auteur n’a publié depuis ?
+Quel auteur n’a pas publié 2012 publié 2011 2014 ?
+Qui écrit article portant
+Quelle rubrique représentée (dans articles période )?
+Quel auteur écrit article commun auteurs X Y ?
+Quel nombre auteurs n’ayant publiés qu'un seul article ?
+Qui écrit textes rapport X Y ?
+Quels textes ont mot X texte titre ?
+Combien auteurs ont écrit texte sujet sujet pendant l’année 2012 l’année 2014 ?
+Je veux articles parlent écologie.
+Quels articles parlent écologie ?
+Affiche articles rubrique Focus datant 1er janvier.
+Quelles Actualités 21 novembre 2012 ?
+Affiche articles concernent hydrographie océanographie.
+Donne-moi articles images.
+Je veux articles traitent climat espace.
+Qui contacter sujet nutrition ?
+Quels articles citent François-André Allaert ?
+Récupère articles écrits 30 juin 2011 12 juillet 2011.
+Je voudrais articles catégories Focus Actualités datant moins 10 jours.
+Cherche documents écrits semaine.
+Trouve-moi articles sans illustration.
+Je veux articles énergies renouvelables.
+Quels articles concernent nucléaire ?
+Trouve-moi articles sujet énergie ne parlent pas nucléaire.
+Donne-moi contacts océanographie.
+Récupère contacts cités depuis 1er janvier année dernière.
+Quels articles ont sujet nucléaire ?
+Je veux articles parlent espace sans parler climat.
+Quels articles parlent économie ?
+Afficher articles rubrique Evènement Focus 2010
+Quels articles parlent innovation écrits après 2011 ?
+Afficher articles parlent économie l’Europe
+Je voudrais articles parlent alimentation
+Quels articles parlent évènements France ?
+Je voudrais articles évènements Polytechnique
+Quels articles écrits avant 2011 parlent économie ?
+Quels articles parlent projet antérieurs 2014
+Afficher liste articles parlent cybercriminalité
+Afficher articles rubrique cœur régions ont numéro 27
+Quels articles traitent écologie 01/02/2014 01/05/2014 ?
+Quels évènements ayant lieu Ile France après 2014
+Afficher liste articles parlent systèmes embarqués rubrique Horizons Enseignement
+Je voudrais articles parlent cuisine moléculaire
+Nanoparticules tissus biologiques
+Je veux voir articles parlent projet Nu-Age
+Quels articles réalité virtuelle ?
+Je voudrais articles l’évènement Rencontres Mobilité Intelligente
+Je voudrais articles parlent airbus projet Taxibot
+tous informations concernant rubriques : rub1, rub2, rub3
+les bulletins parle rubrique focus titre
+les articles premier mai contenant mots : science, physique, math, foot
+les articles premier jour chaque mois
+les bulletin articles
+les rubriques populaires
+les mois riches articles parle thématique
+quelles titres articles contient images
+les bulletins nombre impair date jour pair
+les articles volumineux fin année
+tous titres concernant rubriques : rub1, rub2, rub3 parlant science
+titre article mentionant mots : rue, sport, competition
+le premier article chaque bulletin
+je veux tous titres rubrique focus
+urlImage legendeImage articles parlant develeoppement science
+les bulletin images
+les contacts mois novembre
+quelles date articles contient images
+articles traitant sujets unique
+les titres utilise bulletins
+Je voudrais articles parlent tennis.
+Je veux tous auteurs ayant écrit articles nucléaire.
+Je voudrais article traitant Lune.
+Quel nombre articles parus 3 mars 2013 4 mai 2013 évoquant Etats-Unis ?
+Afficher liste articles rubrique direct laboratoires.
+Je veux articles rubrique Focus parlant innovation.
+Quel auteur rédigé articles propos capteurs ?
+Quels articles parlant Russie Japon ?
+Quel rubrique possédant articles ?
+Je voudrais articles 2011 l’enseignement.
+Combien rubriques différentes évoquent l’intelligence artificielle ?
+Je veux articles rubrique focus février 2014.
+Je voudrais articles titre contient mot chimie.
+Quel nombre articles rubrique Focus ?
+Combien fois mot laboratoire apparaît texte un article rubrique direct laboratoires ?
+Quels rubriques mot aéronautique apparait ?
+Je veux articles 2014 rubrique Focus parlant santé.
+Je veux dates rubriques articles parus 2013.
+Je souhaite rubriques articles parlant nutrition vins.
+Combien articles appartenant rubriques Focus coeur régions évoquent vin ?
+Partenariat Airbus l’Université Tsinghua
+Qu’est l’acétate zirconium?
+Salon nanotechnologies
+Vibration structures composites hautes performance
+Je cherche recherche l’aéronautique
+Je veux articles olivier Bernard
+Je cherche évènements traitant chimie
+Nacre artificielle super résistante
+Ecol Central ua Marauque
+Quels changments dela oinosphére avant siesme
+Comment traiter CO2?
+Qui directeur agroparisTech
+Article traitant Serious Game réalité virtuelle
+Quels articles traitant informatique reseaux
+ogiceil mesurez lé trubbles oculomotuers
+Palmié infaisté pailon
+Y t’il cihime verte Cihine
+Je veux etudes l’education
+Quels derniers partenariats
+Je cherches dernieres avance biochimie
+Quels articles abordent thème l’innovation
+je voudrais articles rubrique Focus mentionnant laboratoire
+de quand date article robotique
+quels articles publiés mois novembre 2011 portant recherche
+je voudrais numéros articles publiés bulletin 226
+combien y atil bulletins contenant rubriques contenant articles plasturgie
+j’aimerais avoir liste rubriques tous bulletins publiés Mars 2011
+combien y atil articles portant fois nanotechnologies microsatellites
+quelles dates publication bulletins contenant informations recherche domaine cristaux
+quels fichiers contenant bulletins contenant rubriques Focus
+je voudrais numéros articles liés recherche scientifique publiés Février 2010
+quelles dates publications bulletins traitant innovation
+quand publié bulletin 226
+combien articles ont publiés rubrique Focus
+je voudrais liste articles publiés Mars 2010 Mars 2011
+combien y atil fichiers contenant articles traitant robotique
+quelles rubriques contenant articles portant microsatellites
+j’aimerais avoir nombre articles bulletin 368
+je voudrais nombre articles publiés Novembre 2011
+quels rubriques articles publiés Mars 2010
+Quelles rubriques articles parlant Lipoprotéines ?
+Afficher articles rubrique Focus.
+Donner articles parlent apprentissage rubrique Horizons Enseignement.
+Chercher articles domaine industriel datés partir 2012.
+Nous souhaitons obtenir articles mois Juin 2013, parlant cerveau.
+Rechercher toutes rubriques Evénement liées l’Ile France.
+Rechercher tous articles CNRS l’innovation partir 2013.
+Quels articles datant 03/04/2012 ?
+Quels articles parlant vin ?
+Je cherche articles avions
+Qui conçu agent conversationnel 2014 ?
+Donner articles l’alimentation l’année 2013.
+Articles titre traite Tara Oceans Polar Circle.
+Nous voulons articles parlant smartphones.
+Quel l’article numéro 75792 ?
+Quels articles parlant projet européen l’année 2014 ?
+La consommation vin rouge Chine a-t-elle progressé diminué depuis 2008 ?
+Quels rubriques articles parlent sport ?
+Quel pays pratiqué l’implémentation un larynx artificiel titane ?
+Afficher articles rubrique lire.
+Je veux articles parlant Neurobiologie
+Quels articles possédant mot « France » ?
+Combien articles parlant Robotique ont Rubrique « Focus » ?
+Nombre articles écris depuis 28/11/2012 ?
+Quelle rubrique utilisée ?
+Quels dix derniers articles parlant cuisine ?
+Je souhaite nombre articles possédant images plus.
+Je voudrais liste articles écrits 2013.
+Articles écrits Décembre 2012 parlent l’environnement ?
+Quels articles contenant mots " voitures " " électrique" ?
+Quelle année possèdent article Rubrique « lire » ?
+Existe-t-il articles parlant CNRS ?
+Donne-moi articles ont moins un an.
+J’aimerais articles sans images.
+Je désire l’article ancien.
+Articles possédants mot « Université ».
+Je voudrais articles images titre contient mot « croissance »
+Je veux liste mots présents 100 articles.
+Quel nombre image ?
+Afficher liste articles rubrique Actualité Innovation
+Combien y t-il articles rubrique Evénement mars 2014 ?
+Quels articles parlent microbiologie ?
+Afficher images avions.
+Quels contacts articles on parle management ?
+Je voudrais savoir quels titres articles mentionnent intelligence artificielle.
+Dans quelles rubriques on retrouve article citent France ?
+J'aimerais liste numéros bulletin écrit après janvier 2014 parlent informatique ou
+de télécommunications.
+Quelle école représentée articles rubrique Horizon Enseignement ?
+A dois-je envoyer mail je veux parler AgroParisTech ?
+Je veux articles 2012 parlent écologie France
+Quels articles parlent réalité virtuelle ?
+Liste articles rubrique Actualité Innovation contiennent moins images.
+Dans quelles rubriques trouve-t-on articles alimentation ?
+Je cherche nombre articles parus juin 2014.
+Liste contacts téléphoniques utiles emploi Toulouse.
+Je souhaterais voir images prises laboratoires Québec.
+Je veux article court rubrique coeur régions.
+Liste articles parlent soit CNRS, soit grandes écoles, pas Centrale Paris.
+Quels numéros bulletins tous articles citent entreprises américaines ?
+Quels articles datent avant 5 juillet 2014 ?
+Je voudrais article écrit Laurent Lagrost.
+J’aimerais article parle biologie date après 2 juillet 2012 ?
+Quels articles parlent innovations technologiques ?
+Je cherche articles titre contient mot performants.
+Je voudrais tout articles provenant rubrique événement contenant mot congres titre.
+Je cherche articles propos fleurs arbres.
+Je souhaites avoir tout articles rubrique focus Actualités Innovations contiennent mots chercheurs paris.
+Donne moi articles numéro inférieur 250.
+Affiche nombre articles ont rubrique événement.
+Je veux articles parlent sénégal
+Quel articles datent 20 juin 2014 ?
+Je voudrais articles parlent innovation
+je voudrais articles titre contient mot europe
+je voudrais articles contiennent mots Ecole Polytechnique
+Je cherche articles provenant rubrique direct laboratoires
+Je voudrais articles datent 1 décembre 2012 rubrique Actualités Innovations
+Je voudrais articles rubrique focus leur titre contient mot solution
+Affiche article numéro 290
+Afficher articles récents rubrique Focus
+Quels bulletins parlant recherche 2012 2013 ?
+Dans quels articles Laurent Lagrost est-il cité ?
+Quelle date bulletin 286 ?
+Quels articles évoquent ville Grenoble ?
+Dans quels bulletins trouvent articles parlant drones ?
+Articles parlant innovation
+Articles parlant molécules.
+Quels bulletin publié Juin 2013 ?
+Articles contenant image.
+Articles parlant université.
+Je voudrais bulletins parus 2012 ayant trait météo.
+Lister tous articles rubrique Focus ont images
+Quels articles titre évoque recherche ?
+Articles rubrique "Horizon Enseignement" ne parlent pas ingénieurs.
+Quels articles parlant innovations européennes ne pas innovations francaises ?
+Tous articles rubrique "En direct laboratoires" "Focus" évoquent médecine.
+Je voudrais tous bulletins écrits 2012 2013 pas mois juin.
+Quels articles titre contient terme "marché" mot "projet" ?
+Combien y t'il articles parlant nanotechnologies 2011 ?
+Afficher articles numéro bulletin 282 parlent technologies articles numéro buletin 279 Évoquent compétitivité
+Quels articles parlent technologies 3D
+je voudrais articles titre contient mot 3D
+afficher liste articles rubrique Focus
+afficher article Numéro 252.
+afficher titres articles rubrique Focus publiés 30/08/2011.
+je veux voir articles rubrique Focus publiÉs 30/08/2011 29/09/2011
+Donnez-moi articles publiés 30/08/2011.
+Je cherche articles thème Changement climatique
+Donnez-moi tous articles publiés après 29/09/2011.
+Je cherche articles thème Changement climatique publiés après 29/09/2011.
+Quels articles Évoquent CNRS ?
+Quels articles parlent aviation ont publiés 2015 ?
+Quels articles rubrique évènement parlent ville Paris ?
+Je veux articles impliquant CNRS parlent chimie.
+Trouver articles mentionnent Fink.
+Combien articles parlent Afrique ?
+Combien articles traitent thème historique ont écrit 2013 ?
+Trouver articles Écrits Novembre.
+Quels articles parlent France Allemagne ?
+Je veux articles parlant Argentine Brésil.
+Je veux articles parlent « l’hydravion ».
+Je veux articles parlent « biologie ».
+Je veux articles parlent fauteuil roulant ont rubrique « Actualité Innovation ».
+Je veux articles écrits 2012 parlent « chrono-environnement ».
+Quels articles parlent robots chirurgiens ?
+Donnez-moi articles parlent bioénergies.
+Je veux articles parlent systmes embarqués non pas robotique.
+Je veux articles parlent innovations partir 2011.
+Je cherche articles parlent alimentations agricultures.
+Quels articles titre contient mot « histoire » ?
+Listez-moi tous articles ont rubrique « Événement ».
+Listez-moi tous articles écrits 2012.
+Je veux articles écrit « Dijon Céréales ».
+Je veux articles titre « bi-mot filière agricole ».
+Listez-moi nouveau article parle « l’innovation ».
+Listez-moi articles parlent 3D écrits 2010 2011.
+Quelle articles titre contient « biocarburant » contenu parlent « bioénergies » ?
+Listez-moi articles parlent « agro écologie » « microorganisme ».
+Listez-moi articles ont rubrique « Focus » apparus mois septembre 2011 juillet 2012.
+Quelle articles concernent l’entreprise « CEA » ?
+Listez-moi articles écrits 03/2011 03/2012
+Listez-moi articles écrits 2013, ont rubrique « côté pôles » parlent « CTPS ».
+Listez-moi noms rubriques parle « création ».
+Dans quelle année nous parlons mot « productivité »?
+Listez-moi articles mot « innovation » apparaissent une fois
+Je veux articles parlent "philosophie".
+Je voudrais liste articles rubrique "Focus".
+Donnez-moi articles parus 21 juin 2011.
+Je veux articles sans image.
+Je veux articles récents.
+Je veux articles parus juin 2011.
+Retournez articles titre contient mot "nucléaire".
+J'aimerais articles parus Novembre 2012 rubrique "Evénement".
+Je veux articles "environnement" "innovation" sans "gouvernement".
+Je veux articles "Philosophie" parus avant 2014.
+Je voudrais articles "Environnement" ne pas rubrique "Focus" no publiés juin 2013.
+Je veux premier article paru rubrique "Actualité innovation"
+Je veux savoir quelle rubrique contient articles "philosophie".
+Je veux savoir quelle rubrique contient articles parus 2013.
+Je veux savoir quelle date articles publiés 2013.
+Je veux articles "Philosophie" "philosophe" rubrique "Focus" 2013 sauf lemois juin.
+Je veux savoir nombre articles rubrique "Actualité innovation".
+Je veux savoir quel mois article publiéen 2013dans rubrique "Evénement".
+Je veux savoir moyenne nombre articles publiés mois 2012.
+Je veux articles numéro 291 rubrique "Du côté pôles".
